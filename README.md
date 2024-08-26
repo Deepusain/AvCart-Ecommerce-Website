@@ -1,5 +1,5 @@
 # E-Commerce Website
-An e-commerce website built using HTML, CSS , JavaScript , Bootstrap And jQuery. The website provides users with a seamless shopping experience by allowing them to browse products, view product details, and add items to the cart.
+An e-commerce website built using HTML, CSS , JavaScript , Bootstrap , React.js And jQuery. The website provides users with a seamless shopping experience by allowing them to browse products, view product details, and add items to the cart.
 
 # Features
 Responsive Design: The website is fully responsive and works on various devices (mobile, tablet, desktop).
@@ -11,4 +11,4 @@ Search and Filter: Functionality to search and filter products by category or pr
 # Tech Stack
 Frontend: HTML, CSS, JavaScript
 Design Framework: ( Bootstrap)
-Other Tools: (jQuery)
+Other Tools: (React.js and jQuery)
