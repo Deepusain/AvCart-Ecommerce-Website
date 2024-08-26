@@ -1,4 +1,4 @@
-# E-Commerce Website
+# AvCart-Ecommerce Website
 An e-commerce website built using HTML, CSS , JavaScript , Bootstrap , React.js And jQuery. The website provides users with a seamless shopping experience by allowing them to browse products, view product details, and add items to the cart.
 
 # Features
