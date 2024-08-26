@@ -18,7 +18,7 @@ Other Tools: (React.js and jQuery)
 git clone https://github.com/Deepusain/AvCart-Ecommerce-Website.git
 
 > Navigate to the project directory:
-cd your-repo-name
+cd AvCart-Ecommerce-Website
 
 > Install dependencies:
 npm install
