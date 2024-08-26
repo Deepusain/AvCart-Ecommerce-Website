@@ -12,3 +12,23 @@ Search and Filter: Functionality to search and filter products by category or pr
 Frontend: HTML, CSS, JavaScript
 Design Framework: ( Bootstrap)
 Other Tools: (React.js and jQuery)
+
+# Installation
+> Clone the repository:
+git clone https://github.com/Deepusain/AvCart-Ecommerce-Website.git
+
+> Navigate to the project directory:
+cd your-repo-name
+
+> Install dependencies:
+npm install
+
+> Start the development server:
+npm start
+
+Open http://localhost:3000 in your web browser to view the website.
+
+# Usage
+Browse through the product catalog.
+Click on a product to view detailed information.
+Add items to the cart and proceed to checkout.
